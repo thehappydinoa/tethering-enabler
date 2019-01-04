@@ -1,7 +1,7 @@
 id=TetheringEnabler
 name=Tethering Enabler
-version=v1.0
-versionCode=10
+version=v1.0.1
+versionCode=101
 author=thehappydinoa
 description=Enables tethering through system.prop
 minMagisk=17000
